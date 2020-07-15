@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A Single page application that gets live football fixtures from a api and loads them onto the page
 
 ## Available Scripts
 
